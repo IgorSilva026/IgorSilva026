@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu sou de São Paulo<br><br>- 🔭 Trabalho como Aux. ADM<br>- 📚 Atualmente estou Aprendendo Java</p>
+<p align="left">Eu sou de São Paulo<br><br>- 🔭 Estudante <br>- 📚 Atualmente estou Aprendendo Python</p>
 
 ###
 
